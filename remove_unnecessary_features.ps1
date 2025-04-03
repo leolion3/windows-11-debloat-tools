@@ -6,7 +6,7 @@ $features = @(
     "Printing-XPSServices-Features",
     "WorkFolders-Client",
     "FaxServicesClientPackage",
-    "MediaPlayback",
+    "MediaPlayback"
 #    "WindowsMediaPlayer",
 #    "Microsoft-Windows-Subsystem-Linux"
 )
